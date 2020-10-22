@@ -110,7 +110,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Untitled-3.ico" />
-    <Content Include="untitled_3_QRE_icon.ico" />
     <None Include="Imagenes\mercury.png" />
     <None Include="Imagenes\fao.png" />
     <None Include="Imagenes\fsao.png" />

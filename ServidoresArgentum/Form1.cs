@@ -5,7 +5,6 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using AngleSharp;
-using System.Threading;
 
 namespace ServidoresArgentum
 {
@@ -103,6 +102,11 @@ namespace ServidoresArgentum
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             System.Diagnostics.Process.Start("https://steamcommunity.com/id/dogocaraballo");
+        }
+
+        private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://github.com/DogoCaraballo/Servidores-Argentum-Online");
         }
     }
 }
